@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome 👋
+####I am currently a student at the University of Information Technology.
 <!--
 **dhthao/dhthao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
